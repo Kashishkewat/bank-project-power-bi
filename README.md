@@ -38,7 +38,7 @@ Acquiring a new customer costs far more than keeping an existing one. This proje
 ### 1. Executive Overview
 High-level view of the customer base and churn.
 
-![Executive Overview]()
+![Executive Overview](Customer Segmentation.png)
 
 - KPI cards: Total Customers (10K), Churned Customers (2K), Churn Rate (20.38%), Average Balance (76.49K), Average Credit Score (650.53)
 - Customers by Country, Active vs Inactive Members, Customers by Gender
@@ -47,7 +47,7 @@ High-level view of the customer base and churn.
 ### 2. Customer Analytics
 Profile of the whole customer base.
 
-![Customer Analytics](images/02_customer_analytics.png)
+![Customer Analytics](Customer Analytics.png)
 
 - Customers by Credit Score Category
 - Churned Customers by Tenure (treemap)
@@ -58,7 +58,7 @@ Profile of the whole customer base.
 ### 3. Churn Analysis
 Deep dive into the 2,038 churned customers.
 
-![Churn Analysis](images/03_churn_analysis.png)
+![Churn Analysis](Churn Analysis.png)
 
 - KPI cards: Total Customers, Churn Rate, Retention Rate (79.62%), Churned Customers
 - Churned Customers by Card Type, Complaint Status, Satisfaction Score, Gender and Activity Status
@@ -66,7 +66,7 @@ Deep dive into the 2,038 churned customers.
 ### 4. Customer Segmentation
 Customer segments and what drives churn inside them.
 
-![Customer Segmentation](images/04_customer_segmentation.png)
+![Customer Segmentation](Customer Segmentation.png)
 
 - Total Customers by Customer Segment (Active, Standard, High Value Active, High Balance Inactive)
 - Churned Customers by Customer Segment
