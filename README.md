@@ -144,7 +144,7 @@ Average Credit Score = AVERAGE ( Customers[CreditScore] )
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Kashishkewat/bank-project-power-bi/tree/main
    ```
 2. Open `"C:\Users\DELL\Downloads\Customer-Churn-Records.csv"` in **Power BI Desktop** (latest version recommended).
 3. If prompted, update the data source path under **Home → Transform data → Data source settings**.
@@ -165,8 +165,8 @@ Average Credit Score = AVERAGE ( Customers[CreditScore] )
 ## Author
 
 **Your Name**
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: (https://www.linkedin.com/in/kashish-kewat-2bb55b328/)
+- GitHub: (https://github.com/Kashishkewat)
 - Email: kashish19v@gmail.com
 
 If you found this project useful, please give it a ⭐ on GitHub.
